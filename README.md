@@ -15,36 +15,39 @@ Create a CSS file (style.css)
 Include a navigation bar with links to different sections.
 
 ### STEP 4
-Add structured sections for introduction, about, projects, and contact details.
+Add structured sections for Homepage, Products / Services, About Us, Contact Details and User Account.
 
 ### STEP 5
-Define global styles for fonts, colors, and layout.
+Include social media links at the footer with copyright information.
 
 ### STEP 6
-Style the header, navigation bar, and sections.
+Define global styles for fonts, colors, and layout.
 
 ### STEP 7
-Use Flexbox for layout design.
+Style the header, navigation bar, and sections.
 
 ### STEP 8
-Add hover effects and transitions for interactivity.
+Use Flexbox for layout design.
 
 ### STEP 9
-Add Images and Media.
+Add hover effects and transitions for interactivity.
 
 ### STEP 10
-Use optimized images for a professional look.
+Add Images and Media.
 
 ### STEP 11
-Open the HTML file in a browser to check layout and functionality.
+Use optimized images for a professional look.
 
 ### STEP 12
-Fix styling issues and refine content placement.
+Open the HTML file in a browser to check layout and functionality.
 
 ### STEP 13
-Deploy the website.
+Fix styling issues and refine content placement.
 
 ### STEP 14
+Deploy the website.
+
+### STEP 15
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
